@@ -35,4 +35,8 @@ Let's collaborate and bring your digital ideas to life! 🌐💻
 
 # Thoughts 
 * While working on this project i got idea how to use 3D Models and how to render it and the various libraries how to use it and run it.
+* I have commented out the 3D Computer Model, while making of this project one can get idea if we are trying to render many images on browesr at some point it give error and some images are loaded and some are 
+  not this affects the fucntioning of website on the mobile browser.
+* This project work perfectly fine on desktop browser and it function smoothly. I have also removed the feedback folder where there were testimonials you can add it to.If you are jst working for desktop broswer
+  Uncomment those codes and run it, you can use other 3D models which require less capacity to render one can say small in size or modearte and other factors. 
 
